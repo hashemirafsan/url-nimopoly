@@ -1,7 +1,7 @@
 {
   "name": "url-nimopoly",
-  "version": "1.0.6",
-  "description": "It is a URL sanitizer. If you want remove special characters from your URL in NODE JS app then you can try it .",
+  "version": "1.0.7",
+  "description": "special-characters remover from url or your string",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,9 @@
     "url": "git+https://github.com/hashemirafsan/url-nimopoly.git"
   },
   "keywords": [
+    "nimoPoly",
+    "npm-nimopoly",
+    "url-nimopoly",
     "remove-specaial-character",
     "special-characters",
     "URL-Sanitizer",

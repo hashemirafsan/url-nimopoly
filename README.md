@@ -1,8 +1,7 @@
 
 ## Nimopoly
-It is a URL sanitizer. If you want remove special characters from your URL in NODE JS app then you can try it .
 
-[![Nimopoly Logo](http://test.partyherenow.com/nimopoly.jpg)]
+[![Nimopoly Logo](http://test.partyherenow.com/nimopoly.jpg)](https://github.com/hashemirafsan/url-nimopoly)
 
 ## Installation
 
