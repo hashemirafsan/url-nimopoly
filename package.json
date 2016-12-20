@@ -1,7 +1,7 @@
 {
   "name": "url-nimopoly",
-  "version": "1.0.7",
-  "description": "special-characters remover from url or your string",
+  "version": "1.1.0",
+  "description": "special-characters remover from url",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
